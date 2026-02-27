@@ -1,0 +1,13 @@
+# Editor
+.vscode/
+
+# WordPress (not needed for static site)
+wp-content/plugins/
+wp-content/uploads/elementor/
+wp-content/uploads/gutenverse/
+
+# Logs & cache
+*.log
+.cache/
+.DS_Store
+Thumbs.db
